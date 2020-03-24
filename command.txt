@@ -64,3 +64,23 @@ git remote add ** 远程仓库ssh链接
 查看当前本地仓库对应的远程仓库名称
 git remote
 
+推送到远程仓库（第一次）
+git push -u ** 分支
+之后
+git push  ** 分支
+
+拉去远程仓库
+git push 
+
+克隆项目
+git clone ssh链接
+
+查看远程分支
+git branch -a
+
+
+
+
+
+
+
